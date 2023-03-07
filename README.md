@@ -1,3 +1,3 @@
 # module-walmart
 
-Edit Walmart module readme.
+Making changes to merge into eaigle dashboard.
